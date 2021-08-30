@@ -11,9 +11,11 @@
             "mode": "debug",
             "program": "${workspaceFolder}",
             "args": [
-                // "encrypt",
-                // "--key",
-                // "~/.ssh/id_rsa.pub",
+                "encrypt",
+                "--key",
+                "~/.ssh/id_ed25519.pub",
+                "-m",
+                "test",
                 // ----
                 // "decrypt",
             ]
