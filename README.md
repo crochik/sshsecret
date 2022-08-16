@@ -4,7 +4,7 @@ Encrypt/Decript short messages using ssh keys so you can share secrets with othe
 
 ## To receive secret messages
 
-For anybody to be able to send you secret messages they will need you public key.
+For anybody to be able to send you secret messages they will need your public key.
 
 Generate new key pair:
 
